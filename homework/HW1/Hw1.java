@@ -51,11 +51,13 @@ public class Hw1 {
     int right=a.length-1;
     for (int i = 0; i < a.length; i++) {
 
+
       // Increment left variable until you get odd number
       while(a[left]%2==1)
       {
         left++;
       }
+
 
       // Decrement right variable until you get even number.
       while(a[right]%2==0)
