@@ -4,6 +4,7 @@ import java.io.*;
 
 public class Hw2_p1 {
 
+
 	static class Employee {
 		private String name;
 		private float salary;

@@ -3,8 +3,7 @@ public class Employee {
 
 	private String name;
 	float salary;
-	
-	public Employee() {
+		public Employee() {
 	
 	}
 	

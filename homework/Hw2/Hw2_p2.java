@@ -5,6 +5,7 @@ import java.io.*;
 
 public class Hw2_p2 {
 
+
 	static class Employee {
 
 		private String name;
