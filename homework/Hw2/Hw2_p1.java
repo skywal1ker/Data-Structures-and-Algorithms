@@ -19,7 +19,8 @@ public class Hw2_p1 {
 		public float getSalary() {return salary;}
 		public void setName(String n) {name = n;}
 		public void setSalary(float s) {salary = s;}
-	
+
+
 		public String toString() {
 			String s = new String();
 			s = s + "\tName = " + name;

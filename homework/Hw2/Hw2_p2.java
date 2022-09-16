@@ -41,8 +41,7 @@ public class Hw2_p2 {
 
 	public static int salaryBetween(LinkedList<Employee> employees, float low, float high) {
 
-		
-		//name of variable count
+				//name of variable count
 		//variable used for counting employees salary between 70,000 and 100000
 		int count = 0;
 
