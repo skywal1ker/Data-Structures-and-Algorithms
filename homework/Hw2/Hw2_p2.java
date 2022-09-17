@@ -33,7 +33,7 @@ public class Hw2_p2 {
 		}
 	}
 
-	      /** 
+	/**
    * @param input  = linkedlist of objects, low range and high range
    * This method calculates largest, lowest and average salaries, given range
    * @return //return count of employees with salary between range
