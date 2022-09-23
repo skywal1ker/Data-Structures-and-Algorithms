@@ -37,6 +37,7 @@
 
 public class MyLinkedList<E> {
 
+
   //---------------- nested Node class ----------------
   /**
    * Node of a singly linked list, which stores a reference to its
