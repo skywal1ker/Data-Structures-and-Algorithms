@@ -19,10 +19,6 @@ def double_hashing(keys, hashtable_size, double_hash_value):
 
 values = [None, 23, 57, None, 15, 18, None, 45, None, 53, 65]
 
-
-
-
-
 import random
 k = random.sample(range(1, 5000), 400) #this is for creating random but unique int elements
 

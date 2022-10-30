@@ -1,6 +1,5 @@
 import random
 
-
 class MyHashTable:
     def __init__(self, capacity): #this atribute for array's size
         self.capacity = capacity
