@@ -6,6 +6,7 @@ def merge(S1, S2, S):
             S[i + j] = S1[i]  # copy ith element of S1 as next item of S
             i += 1
         else:
+
             S[i + j] = S2[j]  # copy jth element of S2 as next item of S
             j += 1
 
