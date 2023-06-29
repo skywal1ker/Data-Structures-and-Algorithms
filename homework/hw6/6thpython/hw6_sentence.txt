@@ -1,0 +1,2 @@
+The primary analysis tool we use in this book involves characterizing the
+running times of algorithms and data structure operations

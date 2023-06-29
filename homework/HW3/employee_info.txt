@@ -1,0 +1,10 @@
+John, 85000
+Susan, 93000
+Lupe, 74000
+Ruth, 127000
+Victor, 63000
+Thomas, 59000
+Alonso, 96000
+Yap, 82000
+Hans, 79000
+Luca, 112000
